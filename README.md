@@ -13,7 +13,7 @@ file. A couple of files reside in `src/resources`.
 ### 0. clone this repository
 
 ```bash
-git clone TODO
+git clone https://github.com/bkiers/PGN-parser
 cd pp
 ```
 
