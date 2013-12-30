@@ -1,4 +1,4 @@
-# PP
+# PGN-parser
 
 A Portable Game Notation (PGN) ANTLR 4 grammar and parser.
 
