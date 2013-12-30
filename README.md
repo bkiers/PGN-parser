@@ -2,11 +2,13 @@
 
 A Portable Game Notation (PGN) ANTLR 4 grammar and parser.
 
-The grammar can be found in `src/main/antlr4/nl/bigo/pp`.
+The grammar can be found in 
+[`src/main/antlr4/nl/bigo/pp`](https://github.com/bkiers/PGN-parser/tree/master/src/main/antlr4/nl/bigo/pp).
 
 Seeing the generated parser in action can be done by building
 a *fat* JAR of the project and then running it to parse a PGN
-file. A couple of files reside in `src/resources`.
+file. A couple PGN files reside in 
+[`src/resources`](https://github.com/bkiers/PGN-parser/tree/master/src/resources).
 
 # Get started
 
