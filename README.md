@@ -16,7 +16,7 @@ file. A couple PGN files reside in
 
 ```bash
 git clone https://github.com/bkiers/PGN-parser
-cd pp
+cd PGN-parser
 ```
 
 ### 1. generate the lexer and parser classes
